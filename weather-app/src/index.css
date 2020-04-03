@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  background: url("./assets/bg1.jpg");
+  background: url("./assets/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
